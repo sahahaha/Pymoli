@@ -1,0 +1,5 @@
+Three Observable Trends
+
+1. The majority of the players are male (84%). The remaining players are made of females (14%) and other (1.9%)
+2. There are 183 unique items in the game with an average price of $3.05. The game has made a total of $2,379.77.
+3. Males purchased the most items (652) but considering they make the majority of the player base, this is not a surprising find.
